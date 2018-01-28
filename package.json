@@ -4,12 +4,20 @@
   "description": "A beauty logger & impure function. Say Hi to Isyana :)",
   "main": "hi.isyana.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -r ts-node/register test/*.test.ts"
   },
   "keywords": [
     "logger",
     "isyana"
   ],
   "author": "Abdul Fattah Ikhsan <ikhsannetwork@gmail.com> (http://ikhsannetwork.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "4.1.2",
+    "@types/mocha": "2.2.47",
+    "chai": "4.1.2",
+    "mocha": "5.0.0",
+    "ts-node": "4.1.0",
+    "typescript": "2.6.2"
+  }
 }
