@@ -38,3 +38,7 @@ isyana('said love you too');
 ## LOL
 
 (❍ᴥ❍ʋ)ヘ
+
+## License
+[MIT](http://opensource.org/licenses/MIT)
+Copyright (c) 2017 - forever [Abdul Fattah Ikhsan](https://twitter.com/abdfattahikhsan)
