@@ -1,4 +1,6 @@
-## Say Hi to Isyana
+## Isyana
+
+[![Build Status](https://travis-ci.org/ikhsanalatsary/isyana.svg?branch=master)](https://travis-ci.org/ikhsanalatsary/isyana)
 
 A beauty logger & impure function. Say Hi to Isyana (🌸●‿●)
 
