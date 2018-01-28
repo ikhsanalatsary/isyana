@@ -1,0 +1,15 @@
+{
+  "name": "isyana",
+  "version": "1.0.0",
+  "description": "A beauty logger & impure function. Say Hi to Isyana :)",
+  "main": "hi.isyana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "isyana"
+  ],
+  "author": "Abdul Fattah Ikhsan <ikhsannetwork@gmail.com> (http://ikhsannetwork.com/)",
+  "license": "MIT"
+}
