@@ -1,6 +1,6 @@
 {
   "name": "isyana",
-  "version": "1.0.1000",
+  "version": "1.0.1001",
   "description": "A beauty logger & impure function. Say Hi to Isyana :)",
   "main": "hi.isyana.js",
   "scripts": {

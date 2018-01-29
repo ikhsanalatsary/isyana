@@ -4,7 +4,7 @@
 
 A beauty logger & impure function. Say Hi to Isyana (🌸●‿●)
 
-![Isyana](/isyana.jpg "Say hi to isyana")
+![Isyana](https://raw.githubusercontent.com/ikhsanalatsary/isyana/master/isyana.jpg "Say hi to isyana")
 
 ## Usage
 
