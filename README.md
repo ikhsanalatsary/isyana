@@ -4,6 +4,8 @@
 
 A beauty logger & impure function. Say Hi to Isyana (🌸●‿●)
 
+![Isyana](/isyana.jpg "Say hi to isyana")
+
 ## Usage
 
 Typescript:
@@ -33,6 +35,14 @@ put `hi.isyana.js` on top before your js script tag and then inside your js:
 
 isyana('said love you too');
 
+```
+
+CommonJS / NodeJS:
+
+```javascript
+  const isyana = require('isyana').default;
+
+  isyana('Hi Jones');
 ```
 
 ## LOL
